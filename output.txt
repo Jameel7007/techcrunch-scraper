@@ -1,0 +1,252 @@
+HTTP Status Code: 200
+Page fetched successfully
+Found 84 articles with 'data-destinationlink' attribute
+Title: Search
+URL: #
+--------------------------------------------------------------------------------
+Title: Startups
+URL: /category/startups/
+--------------------------------------------------------------------------------
+Title: Venture
+URL: /category/venture/
+--------------------------------------------------------------------------------
+Title: Apple
+URL: https://techcrunch.com/tag/apple/
+--------------------------------------------------------------------------------
+Title: Security
+URL: /category/security/
+--------------------------------------------------------------------------------
+Title: AI
+URL: /category/artificial-intelligence/
+--------------------------------------------------------------------------------
+Title: Apps
+URL: /category/apps/
+--------------------------------------------------------------------------------
+Title: Events
+URL: /events/
+--------------------------------------------------------------------------------
+Title: Startup Battlefield
+URL: /startup-battlefield/
+--------------------------------------------------------------------------------
+Title: Fintech
+URL: /category/fintech/
+--------------------------------------------------------------------------------
+Title: Cloud Computing
+URL: https://techcrunch.com/tag/cloud-computing/
+--------------------------------------------------------------------------------
+Title: Layoffs
+URL: https://techcrunch.com/tag/layoffs/
+--------------------------------------------------------------------------------
+Title: Hardware
+URL: /category/hardware/
+--------------------------------------------------------------------------------
+Title: Google
+URL: https://techcrunch.com/tag/google/
+--------------------------------------------------------------------------------
+Title: Microsoft
+URL: https://techcrunch.com/tag/microsoft/
+--------------------------------------------------------------------------------
+Title: Transportation
+URL: /category/transportation/
+--------------------------------------------------------------------------------
+Title: EVs
+URL: /tag/evs/
+--------------------------------------------------------------------------------
+Title: Meta
+URL: https://techcrunch.com/tag/meta/
+--------------------------------------------------------------------------------
+Title: Instagram
+URL: https://techcrunch.com/tag/instagram/
+--------------------------------------------------------------------------------
+Title: Amazon
+URL: https://techcrunch.com/tag/amazon/
+--------------------------------------------------------------------------------
+Title: TikTok
+URL: https://techcrunch.com/tag/tiktok/
+--------------------------------------------------------------------------------
+Title: Newsletters
+URL: /newsletters/
+--------------------------------------------------------------------------------
+Title: Podcasts
+URL: /podcasts/
+--------------------------------------------------------------------------------
+Title: Partner Content
+URL: /sponsored/
+--------------------------------------------------------------------------------
+Title: Crunchboard Jobs
+URL: https://www.crunchboard.com/
+--------------------------------------------------------------------------------
+Title: Contact Us
+URL: /contact-us/
+--------------------------------------------------------------------------------
+Title: Apps
+URL: https://techcrunch.com/category/apps/
+--------------------------------------------------------------------------------
+Title: Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app
+URL: https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/
+--------------------------------------------------------------------------------
+Title: Sarah Perez
+URL: https://techcrunch.com/author/sarah-perez/
+--------------------------------------------------------------------------------
+Title: Social
+URL: https://techcrunch.com/category/social/
+--------------------------------------------------------------------------------
+Title: X weighs adding a downvote button to replies — but it doesn’t want to emulate Reddit
+URL: https://techcrunch.com/2024/07/02/x-weighs-adding-a-downvote-button-to-replies-but-it-doesnt-want-to-emulate-reddit/
+--------------------------------------------------------------------------------
+Title: Sarah Perez
+URL: https://techcrunch.com/author/sarah-perez/
+--------------------------------------------------------------------------------
+Title: AI
+URL: https://techcrunch.com/category/artificial-intelligence/
+--------------------------------------------------------------------------------
+Title: Meta plans to bring generative AI to metaverse games
+URL: https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/
+--------------------------------------------------------------------------------
+Title: Kyle Wiggers
+URL: https://techcrunch.com/author/kyle-wiggers/
+--------------------------------------------------------------------------------
+Title: AI
+URL: https://techcrunch.com/category/artificial-intelligence/
+--------------------------------------------------------------------------------
+Title: Anthropic looks to fund a new, more comprehensive generation of AI benchmarks
+URL: https://techcrunch.com/2024/07/01/anthropic-looks-to-fund-a-new-more-comprehensive-generation-of-ai-benchmarks/
+--------------------------------------------------------------------------------
+Title: Kyle Wiggers
+URL: https://techcrunch.com/author/kyle-wiggers/
+--------------------------------------------------------------------------------
+Title: Fundraising
+URL: https://techcrunch.com/category/fundraising/
+--------------------------------------------------------------------------------
+Title: Japan’s SmartHR raises $140M Series E as strong demand for HR tech boosts its ARR to $100M
+URL: https://techcrunch.com/2024/07/01/japans-smarthr-raises-140m-series-e-as-strong-demand-for-hr-tech-boosts-its-arr-to-100m/
+--------------------------------------------------------------------------------
+Title: Kate Park
+URL: https://techcrunch.com/author/kate-park/
+--------------------------------------------------------------------------------
+Title: Twitter/X alternative Mastodon appeals to journalists with new ‘byline’ feature
+URL: https://techcrunch.com/2024/07/02/twitter-x-alternative-mastodon-appeals-to-journalists-with-latest-byline-feature/
+--------------------------------------------------------------------------------
+Title: X weighs adding a downvote button to replies — but it doesn’t want to emulate Reddit
+URL: https://techcrunch.com/2024/07/02/x-weighs-adding-a-downvote-button-to-replies-but-it-doesnt-want-to-emulate-reddit/
+--------------------------------------------------------------------------------
+Title: Yieldstreet says some of its customers were affected by the Evolve Bank data breach
+URL: https://techcrunch.com/2024/07/02/yieldstreet-says-some-of-its-customers-were-affected-by-the-evolve-bank-data-breach/
+--------------------------------------------------------------------------------
+Title: Evolve hack fallout continues, fintech M&A heats up and Plaid talks enterprise push
+URL: https://techcrunch.com/2024/07/02/evolve-hack-fallout-continues-fintech-ma-heats-up-and-plaid-talks-enterprise-push/
+--------------------------------------------------------------------------------
+Title: What You Need to Raise a Series A Today at TechCrunch Disrupt 2024
+URL: https://techcrunch.com/2024/07/02/what-you-need-to-raise-a-series-a-today-at-techcrunch-disrupt-2024/
+--------------------------------------------------------------------------------
+Title: Snapchat’s latest features help users personalize their accounts
+URL: https://techcrunch.com/2024/07/02/snapchats-latest-features-help-users-personalize-their-accounts/
+--------------------------------------------------------------------------------
+Title: Meta plans to bring generative AI to metaverse games
+URL: https://techcrunch.com/2024/07/02/meta-plans-to-bring-generative-ai-to-metaverse-games/
+--------------------------------------------------------------------------------
+Title: TechCrunch Minute: A beginner’s guide to the fediverse
+URL: https://techcrunch.com/video/techcrunch-minute-a-beginners-guide-to-the-fediverse/
+--------------------------------------------------------------------------------
+Title: News outlets are accusing Perplexity of plagiarism and unethical web scraping
+URL: https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/
+--------------------------------------------------------------------------------
+Title: Figma disables its AI design feature that appeared to be ripping off Apple’s Weather app
+URL: https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/
+--------------------------------------------------------------------------------
+Title: Computing and shielding startups join forces to put AI-capable chips in space
+URL: https://techcrunch.com/2024/07/02/computing-and-shielding-startups-join-forces-to-put-ai-capable-chips-in-space/
+--------------------------------------------------------------------------------
+Title: Sensorita uses digital twins to help waste management companies streamline construction waste
+URL: https://techcrunch.com/2024/07/02/sensorita-uses-digital-twins-to-help-waste-management-companies-streamline-construction-waste/
+--------------------------------------------------------------------------------
+Title: As the AI boom gobbles up power, Phaidra is helping companies manage datacenter power more efficiently
+URL: https://techcrunch.com/2024/07/02/phaidras-ai-helps-manage-data-center-energy-consumption/
+--------------------------------------------------------------------------------
+Title: Husband-and-wife former Olympians target $50M for new fund to invest in influencer-led consumer brands
+URL: https://techcrunch.com/2024/07/02/samyr-laine-freedom-trail-capital-venture-capital/
+--------------------------------------------------------------------------------
+Title: Industry Ventures raises a $900M fund for investing in small, early-stage VCs and their breakout startups
+URL: https://techcrunch.com/2024/07/02/industry-ventures-raises-a-900m-fund-for-investing-in-small-early-stage-vcs-and-their-breakout-startups/
+--------------------------------------------------------------------------------
+Title: Beauty tech startup BoldHue raises capital to ship its ‘Keurig for makeup’
+URL: https://techcrunch.com/2024/07/02/boldhue-beauty-tech-startup-seed-funding/
+--------------------------------------------------------------------------------
+Title: Indian edtech Unacademy cuts another 250 jobs
+URL: https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/
+--------------------------------------------------------------------------------
+Title: Apple adds support for new languages across lock screen, keyboard and search on iOS 18
+URL: https://techcrunch.com/2024/07/02/apple-adds-support-for-new-languages-across-lock-screen-keyboard-and-search-on-ios-18/
+--------------------------------------------------------------------------------
+Title: Anthropic looks to fund a new, more comprehensive generation of AI benchmarks
+URL: https://techcrunch.com/2024/07/01/anthropic-looks-to-fund-a-new-more-comprehensive-generation-of-ai-benchmarks/
+--------------------------------------------------------------------------------
+Title: Senators urge owners, partners and VC backers of fintech Synapse to restore customers’ access to their money
+URL: https://techcrunch.com/2024/07/01/senators-urge-synapses-owners-partners-and-vc-funders-to-restore-customers-access-to-their-money/
+--------------------------------------------------------------------------------
+Title: TechCrunch
+URL: https://techcrunch.com/
+--------------------------------------------------------------------------------
+Title: Staff
+URL: https://techcrunch.com/about-techcrunch/
+--------------------------------------------------------------------------------
+Title: Contact Us
+URL: https://techcrunch.com/contact-us/
+--------------------------------------------------------------------------------
+Title: Advertise
+URL: https://techcrunch.com/advertise/
+--------------------------------------------------------------------------------
+Title: Crunchboard Jobs
+URL: https://www.crunchboard.com/
+--------------------------------------------------------------------------------
+Title: Site Map
+URL: https://techcrunch.com/site-map/
+--------------------------------------------------------------------------------
+Title: Terms of Service
+URL: https://guce.techcrunch.com/terms
+--------------------------------------------------------------------------------
+Title: Privacy Policy
+URL: https://guce.techcrunch.com/privacy-policy
+--------------------------------------------------------------------------------
+Title: RSS Terms of Use
+URL: https://techcrunch.com/rss-terms-of-use/
+--------------------------------------------------------------------------------
+Title: Privacy Placeholder 1
+URL: #
+--------------------------------------------------------------------------------
+Title: Privacy Placeholder 2
+URL: #
+--------------------------------------------------------------------------------
+Title: Privacy Placeholder 3
+URL: #
+--------------------------------------------------------------------------------
+Title: Privacy Placeholder 4
+URL: #
+--------------------------------------------------------------------------------
+Title: Code of Conduct
+URL: https://techcrunch.com/code-of-conduct/
+--------------------------------------------------------------------------------
+Title: About Our Ads
+URL: https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html
+--------------------------------------------------------------------------------
+Title: Figma
+URL: https://techcrunch.com/2024/07/02/figma-disables-its-ai-design-feature-that-appeared-to-be-ripping-off-apples-weather-app/
+--------------------------------------------------------------------------------
+Title: Anthropic
+URL: https://techcrunch.com/2024/07/01/anthropic-looks-to-fund-a-new-more-comprehensive-generation-of-ai-benchmarks/
+--------------------------------------------------------------------------------
+Title: Unacademy Layoffs
+URL: https://techcrunch.com/2024/07/02/indian-edtech-unacademy-cuts-another-250-jobs/
+--------------------------------------------------------------------------------
+Title: Perplexity AI
+URL: https://techcrunch.com/2024/07/02/news-outlets-are-accusing-perplexity-of-plagiarism-and-unethical-web-scraping/
+--------------------------------------------------------------------------------
+Title: Apple iOS 18
+URL: https://techcrunch.com/2024/07/02/apple-adds-support-for-new-languages-across-lock-screen-keyboard-and-search-on-ios-18/
+--------------------------------------------------------------------------------
+Title: Tech Layoffs
+URL: https://techcrunch.com/2024/06/24/tech-layoffs-2024-list/
+--------------------------------------------------------------------------------
+Title: ChatGPT
+URL: https://techcrunch.com/2024/06/17/chatgpt-everything-to-know-about-the-ai-chatbot/
+--------------------------------------------------------------------------------
